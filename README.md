@@ -1,6 +1,6 @@
 ## Interpretable Classification of Bacterial Raman Spectra with Knockoff Wavelets
 
-This repository contains Python and R code to reproduce the data analysis described in the accompanying paper:
+This repository contains Python and R code to reproduce the data analysis described in the [accompanying paper](https://arxiv.org/abs/2006.04937):
 ```
 Interpretable Classification of Bacterial Raman Spectra with Knockoff Wavelets
 Charmaine Chia, Matteo Sesia, Chi-Sing Ho, Stefanie S. Jeffrey, Jennifer Dionne, Emmanuel Candès, and Roger Howe
