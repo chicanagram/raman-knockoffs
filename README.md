@@ -4,7 +4,7 @@ This repository contains Python and R code to reproduce the data analysis descri
 ```
 Interpretable Classification of Bacterial Raman Spectra with Knockoff Wavelets
 Charmaine Chia, Matteo Sesia, Chi-Sing Ho, Stefanie S. Jeffrey, Jennifer Dionne, Emmanuel Candès, and Roger Howe
-arXiv preprint (2021)
+arXiv preprint (2021) https://arxiv.org/abs/2006.04937
 ```
 
 Contents:
